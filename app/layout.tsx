@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 import { Toaster } from '@/components/ui/toaster';
 
 export const metadata: Metadata = {
-  title: '2QuickPaper - Digital Receipts Platform',
+  title: 'EasyReceipt - Digital Receipts Platform',
   description: 'Send digital receipts via email and WhatsApp',
 };
 
